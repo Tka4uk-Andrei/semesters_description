@@ -54,6 +54,8 @@
 ### Описание:
 Надо сдать курс на [openEdu](https://openedu.ru/course/spbstu/FOMO/). Лекций _вроде_ нет, занятия чисто через openEdu
 
+Таблица с полезностями по курсу [тут](https://docs.google.com/spreadsheets/d/1NlH_sDpmime3jru5c0FiFjkG5i_CNoOMenT4hScPu9s/edit?usp=sharing)
+
 [Назад, к навигации](#Быстрая-навигация)
 
 ---
