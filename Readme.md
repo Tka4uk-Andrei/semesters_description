@@ -9,3 +9,4 @@
 
 - [1 семестр](semester_1.md)
 - [2 семестр](semester_2.md)
+- [3 семестр](semester_3.md)
