@@ -166,7 +166,7 @@ __Вид контроля:__ Зачёт
 |------|---------------------------------------------------------------|---------------------------------------------------|-----------------|
 | 1.   | Инженерная и компьютерная графика                             | https://openedu.ru/course/spbstu/COMPGR/          | 5               |
 | 3.   | Бережливое производство                                       | https://openedu.ru/course/spbstu/LEANPROD/        | 5               |
-| 22.  | История	и	философия технической реальности                   | https://openedu.ru/course/spbstu/HPTR/            | 5               |
+| 22.  | История	и	философия технической реальности               | https://openedu.ru/course/spbstu/HPTR/            | 5               |
 | 35.  | Логистика                                                     | https://openedu.ru/course/spbstu/LOGIST/          | 6               |
 | 36.  | Маркетинг                                                     | https://openedu.ru/course/spbstu/MARKET/          | 5               |
 | 39.  | Математические	методы в экономике                             | https://openedu.ru/course/spbstu/BUSMAT/          | 5               |
